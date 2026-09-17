@@ -1,0 +1,3 @@
+First line from git-lesson-branch
+Second line from conflict-branch
+third line from pull-request
