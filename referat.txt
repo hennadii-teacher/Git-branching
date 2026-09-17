@@ -1,1 +1,2 @@
 First line from git-lesson-branch
+Second line from conflict-branch
